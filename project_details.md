@@ -1,4 +1,4 @@
-**StarDome: Elevating Your View of the Universe**
+# **StarDome: Elevating Your View of the Universe**
 
 **Table of Contents**
 
