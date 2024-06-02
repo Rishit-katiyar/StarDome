@@ -2,6 +2,10 @@
 
 Welcome to StarDome, where we specialize in crafting exquisite geodesic glass domes that redefine stargazing and architectural elegance. StarDome is not just a company; it's a passion project born out of a love for astronomy and a desire to bring the wonders of the universe closer to home. With our unparalleled design excellence, commitment to sustainability, and dedication to customer satisfaction, we're confident that StarDome will exceed your expectations and provide you with a celestial sanctuary unlike any other.
 
+<p align="center">
+  <img src="https://github.com/Rishit-katiyar/StarDome/assets/167756997/d37f9174-590a-4212-9ee4-734469b356ca" width="400" alt="Figure_1jdhfhdthwss">
+</p>
+
 **🏠 Installation Instructions 🚀**
 
 To install StarDome, follow these simple steps:
