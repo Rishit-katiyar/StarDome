@@ -1,5 +1,6 @@
 # **🌌 StarDome: Elevating Your View of the Universe 🌠**
 
+
 Welcome to StarDome, where we specialize in crafting exquisite geodesic glass domes that redefine stargazing and architectural elegance. StarDome is not just a company; it's a passion project born out of a love for astronomy and a desire to bring the wonders of the universe closer to home. With our unparalleled design excellence, commitment to sustainability, and dedication to customer satisfaction, we're confident that StarDome will exceed your expectations and provide you with a celestial sanctuary unlike any other.
 
 <p align="center">
